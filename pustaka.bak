@@ -1,0 +1,14 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Book{BRsecurity,
+  Title                    = {Keamanan Informasi},
+  Author                   = {Budi Rahardjo},
+  Publisher                = {PT Insan Infonesia},
+  Year                     = {2017},
+
+  Owner                    = {budi},
+  Timestamp                = {2020.04.09}
+}
+
