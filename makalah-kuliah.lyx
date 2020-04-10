@@ -153,10 +153,13 @@ Tulisan ini menjelaskan bagaimana membuat makalah untuk tugas di akhir kelas.
  Hal-hal penting yang terkait dengan penilaian sebuah makalah akan dibahas
  dengan rinci.
  Tata cara penulisan referensi akan dibahas dengan lebih rinci.
+ Ada beberapa hal yang spesifik terhadap tugas perkuliahan di kelas yang
+ diajarkan oleh penulis, tetapi secara umum panduan ini dapat digunakan
+ untuk makalah secara umum.
 \end_layout
 
 \begin_layout Keywords
-makalah, final project
+makalah, final project, thesis, disertasi
 \end_layout
 
 \begin_layout Section
@@ -264,7 +267,17 @@ kasta
 \end_inset
 
 .
- Tingkatan tertinggi adalah makalah yang bersumber pada jurnal yang terpercaya
+ Kualitas dari makalah Anda akan diasosiasikan dengan referensi yang Anda
+ gunakan.
+ Bayangkan jika referensi yang Anda gunakan adalah buku pelajaran SD.
+ Mereka sah digunakan sebagai referensi, tetapi tingkat makalah Anda mungkin
+ dianggap setara dengan buku pelajaran SD.
+ Jika makalah Anda mengutip sumber-sumber yang dianggap sangat kredibel,
+ maka makalah Anda juga dianggap kredibel.
+\end_layout
+
+\begin_layout Standard
+Tingkatan tertinggi adalah makalah yang bersumber pada jurnal yang terpercaya
  (
 \emph on
 peer reviewed journals
@@ -288,8 +301,11 @@ state of the art
 \emph default
 ).
  Penerbitan buku dahulu melalui proses review yang cukup lama.
- Saat ini pembuatan buku dapat dilakukan oleh siapa saja melalui self-publishing
- books.
+ Saat ini pembuatan buku dapat dilakukan oleh siapa saja melalui 
+\emph on
+self-publishing books
+\emph default
+.
  Proses review, yang merupakan salah satu kunci utama, tidak seketat pada
  
 \emph on
@@ -334,6 +350,138 @@ CIA
 \begin_layout Standard
 Pada contoh di atas, pendapat dikutip dengan menyertakan sumber referensinya.
  Sumber referensi dapat juga diletakkan pada akhir kalimat.
+\end_layout
+
+\begin_layout Quote
+Permasalahan keamanan saat ini lebih banyak ke arah perangkat lunak 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "BRsoftwaresecurity"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Setelah buku ada banyak sumber referensi lainnya.
+ Referensi dari makalah yang dimuat dalam proceeding dari sebuah seminar
+ dapat digunakan juga.
+ Makalah dari seminar memiliki keunggulan dalam hal kebaharuan topik, tetapi
+ memiliki kelemahan dalam hal review.
+ Biasanya jadwal antara penerimaan makalah, proses review, dan pelaksanaan
+ seminar sangat ketat sehingga proses review agak lebih longgar.
+ Hal ini menunjukkan proses pemilahan kalah jauh dari sumber referensi lainnya.
+\end_layout
+
+\begin_layout Standard
+Referensi yang berasal dari tulisan daring (
+\emph on
+online
+\emph default
+) dapat digunakan meskipun tingkat kepercayaannya dianggap rendah.
+ Pasalnya adalah ketidakjelasan keabsahan tulisan yang dibuat secara daring.
+ Tulisan tersebut dapat diubah sehingga apa yang dikutip menjadi berubah.
+ 
+\emph on
+Wikipedia
+\emph default
+ masuk ke dalam kategori ini sehingga banyak jurnal, seminar, bahkan perguruan
+ tinggi yang melarang penggunaan 
+\emph on
+Wikipedia
+\emph default
+.
+ Dalam opini penulis, artikel 
+\emph on
+Wikipedia
+\emph default
+ adalah lebih baik dari opini penulis makalah sehingga masih dapat digunakan
+ meskipun tingkatnya masih dianggap meragukan.
+\end_layout
+
+\begin_layout Standard
+Penulisan referensi juga memiliki aturan yang sangat ketat.
+ Setiap standar memiliki aturan sendiri.
+ Sebagai contoh, standar IEEE mengatakan bahwa apabila referensi yang digunakan
+ adalah sebuah buku maka judul dari buku tersebut dicetak miring.
+ Sementara itu jika referensi yang digunakan adalah makalah dari sebuah
+ jurnal maka judul dari jurnal tersebutlah yang dicetak miring.
+ Sekali lagi perhatikan standar yang digunakan.
+\end_layout
+
+\begin_layout Standard
+Kesalahan yang paling sering terjadi saat ini adalah ketidakpedulian mahasiswa
+ dalam format penulisan makalah.
+ Perhatikan contoh kesalahan pada Gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Kesalahan-penulisan-referensi"
+
+\end_inset
+
+.
+ Pada contoh tersebut penulis sertakan juga coretan (catatan) salah.
+ Contoh ini merupakan salah satu makalah tugas akhir dari sebuah kuliah
+ penulis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide true
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/referensi-salah.jpg
+	scale 50
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Kesalahan-penulisan-referensi"
+
+\end_inset
+
+Kesalahan penulisan referensi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sekali lagi perlu ditekankan betapa pentingnya penulisan dan penggunaan
+ referensi.
+ Ini adalah salah satu kunci utama dalam penulisan makalah.
+ Jika pada tahap ini saja hasilnya sudah buruk, penulis biasanya berhenti
+ menilai makalah tersebut dan memasukkan ke kategori 
+\begin_inset Quotes eld
+\end_inset
+
+ditolak
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Jika hal ini dikaitkan dengan perkuliahan, maka mahasiswa yang bersangkutan
+ dinyatakan tidak lulus.
 \end_layout
 
 \begin_layout Subsection
@@ -415,6 +563,67 @@ Secara umum, dalam penulisan makalah gunakan kalimat yang singkat.
  Salah satu indikasi kalimat terlalu panjang adalah jika terdapat banyak
  tanda baca koma (,).
  Pecah kalimat tersebut menjadi beberapa kalimat.
+ Perhatikan contoh pada Gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Kalimat-terlalu-panjang"
+
+\end_inset
+
+.
+ Apa salahnya?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide true
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/kalimat-panjang.jpg
+	scale 50
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Kalimat-terlalu-panjang"
+
+\end_inset
+
+Contoh kalimat yang terlalu panjang
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Perhatikan pada contoh yang diberikan (Gambar ) bahwa paragraf tersebut
+ hanya terdiri dari satu kalimat yang teramat panjang.
+ Tidak jelas mana subyek dari kalimat tersebut.
+ Pecah kalimat tersebut menjadi beberapa kalimat yang pendek.
+ Paragraf juga akan memiliki beberapa kalimat.
 \end_layout
 
 \begin_layout Subsection

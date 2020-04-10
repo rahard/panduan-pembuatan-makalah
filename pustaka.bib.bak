@@ -2,6 +2,16 @@
 % Encoding: UTF-8
 
 
+@Book{BRsoftwaresecurity,
+  Title                    = {Software Security},
+  Author                   = {Budi R},
+  Publisher                = {PT Insan Infonesia},
+  Year                     = {2016},
+
+  Owner                    = {budi},
+  Timestamp                = {2020.04.10}
+}
+
 @Book{BRsecurity,
   Title                    = {Keamanan Informasi},
   Author                   = {Budi Rahardjo},
