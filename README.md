@@ -1,4 +1,4 @@
-# panduan-pembuatan-makalah
+# Panduan Pembuatan Makalah
 Ini adalah tempat berbagi tulisan saya tentang "Panduan Pembuatan Makalah".
 Panduan ini digunakan untuk mahasiswa saya dalam menuliskan term paper.
 Materi saya tulis dengan menggunakan Lyx.
