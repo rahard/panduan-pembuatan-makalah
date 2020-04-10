@@ -197,7 +197,10 @@ Bagian Penting
 
 \begin_layout Standard
 Ada banyak hal yang menjadi obyek penilaian dari sebuah makalah.
- Pada tulisan ini adalah cara saya dalam memberikan penilaian.
+ Pada tulisan ini urutan pembahasan adalah menggunakan cara penulis dalam
+ memberikan penilaian.
+ Sebagai contoh, bagian referensi adalah yang pertama kali mendapat perhatian.
+ Setelah itu menyusul bagian-bagian lainnya.
 \end_layout
 
 \begin_layout Subsection
@@ -276,7 +279,23 @@ peer reviewed journals
 \end_layout
 
 \begin_layout Standard
-Buku merupakan salah satu sumber referensi.
+Buku merupakan referensi yang tingkatnya di bawah makalah di jurnal.
+ Alasan mengapa demikian adalah adanya pendapat bahwa apa-apa yang ditulis
+ di buku merupakan sesuatu yang sudah selasai, sehingga bukan merupakan
+ hal yang masih baru (
+\emph on
+state of the art
+\emph default
+).
+ Penerbitan buku dahulu melalui proses review yang cukup lama.
+ Saat ini pembuatan buku dapat dilakukan oleh siapa saja melalui self-publishing
+ books.
+ Proses review, yang merupakan salah satu kunci utama, tidak seketat pada
+ 
+\emph on
+peer reviewed journal
+\emph default
+.
  Salah satu contoh penggunaannya adalah seperti berikut.
 \end_layout
 
@@ -318,6 +337,50 @@ Pada contoh di atas, pendapat dikutip dengan menyertakan sumber referensinya.
 \end_layout
 
 \begin_layout Subsection
+Kesimpulan
+\end_layout
+
+\begin_layout Standard
+Bagian kedua yang penulis periksa adalah bagian kesimpulan.
+ Kesimpulan harus singkat dan berkaitan dengan pertanyaan penelitian yang
+ berada pada bagian pertama dari tulisan.
+ Pada skripsi, tugas akhir, thesis, atau disertasi, bagian pertanyaan penelitian
+ ini ada pada Bab pertama.
+ Jika pada bagian tersebut terdapat tiga pertanyaan, maka pada bagian kesimpulan
+ ada tiga jawaban juga yang masing-masing berkorelasi dengan pertanyaan
+ tersebut.
+ Ini adalah cara mudah untuk memastikan bahwa kesimpulan dari makalah ini
+ sudah benar.
+\end_layout
+
+\begin_layout Standard
+Isi dari kesimpulan adalah hal-hal yang terjawab oleh penelitian atau topik
+ yang diuraikan dalam makalah.
+ Seringkali ada kesimpulan yang tidak ada hubungannya dengan topik penelitian
+ atau merupakan hal yang sudah umum.
+ Sebagai contoh, hal-hal di bawah ini adalah bukan kesimpulan.
+\end_layout
+
+\begin_layout Itemize
+Komputer dengan prosesor yang memiliki 
+\emph on
+clock
+\emph default
+ lebih cepat dan memori yang lebih besar dapat menyelesaikan perhitungan
+ dengan lebih cepat.
+\end_layout
+
+\begin_layout Itemize
+Gambar yang memiliki resolusi lebih tinggi membutuhkan memori yang lebih
+ besar untuk menyimpannya.
+\end_layout
+
+\begin_layout Standard
+Hal-hal di atas adalah hal yang sudah lazim dan biasanya bukan merupakan
+ hal yang dianalisis dalam makalah tersebut.
+\end_layout
+
+\begin_layout Subsection
 Penggunaan Bahasa
 \end_layout
 
@@ -352,6 +415,104 @@ Secara umum, dalam penulisan makalah gunakan kalimat yang singkat.
  Salah satu indikasi kalimat terlalu panjang adalah jika terdapat banyak
  tanda baca koma (,).
  Pecah kalimat tersebut menjadi beberapa kalimat.
+\end_layout
+
+\begin_layout Subsection
+Gambar
+\end_layout
+
+\begin_layout Standard
+Makalah biasanya membutuhkan gambar atau diagram untuk menjelaskan berbagai
+ hal.
+ Ada beberapa hal yang perlu diperhatikan dalam menyertakan gambar pada
+ makalah.
+\end_layout
+
+\begin_layout Standard
+Pastikan gambar dibutuhkan.
+ Ada beberapa kasus gambar tidak dibutuhkan karena sudah umum.
+ Sebagai contoh, ada makalah yang memasukkan gambar logo dari sebuah perangkat
+ lunak (software) yang sudah lazim digunakan.
+ Semua orang juga sudah tahu hal itu dan tidak perlu ditambahkan.
+ Penambahan gambar akan dianggap sebagai usaha untuk menambah jumlah halaman.
+ Untuk menunjukkan bahwa gambar memang dibutuhkan maka harus ada penjelasan
+ gambar tersebut dalam tulisan.
+ Gambar tidak boleh disertakan tanpa ada uraian dalam badan tulisan.
+\end_layout
+
+\begin_layout Standard
+Sebutkan sumber gambar.
+ Ada banyak penulis makalah yang mengambil gambar dari sebuah sumber (misal
+ makalah lain atau dari buku) dan tidak menyebutkan sumbernya.
+ Jika ini terjadi, maka kegiatan ini akan dianggap sebagai plagiat karena
+ seolah-olah gambar tersebut adalah ide dari Anda.
+ Sumber gambar dapat ditampilkan pada gambarnya atau pada 
+\emph on
+caption
+\emph default
+ dari gambar.
+\end_layout
+
+\begin_layout Standard
+Gambar harus diberi nomor dan diurutkan.
+ Perhatkan standar penamaan dari gambar tersebut.
+ Dalam bahasa Inggris biasanya penomoran menggunakan kata 
+\begin_inset Quotes eld
+\end_inset
+
+Figure
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Sementara itu di dalam bahasa Indonesia digunakan kata 
+\begin_inset Quotes eld
+\end_inset
+
+Gambar
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Perhatikan pula di berbagai penerbitan kata 
+\begin_inset Quotes eld
+\end_inset
+
+Figure
+\begin_inset Quotes erd
+\end_inset
+
+ tersebut dapat juga disingkat menjadi 
+\begin_inset Quotes eld
+\end_inset
+
+Fig.
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Sekali lagi, perhatikan standar yang digunakan.
+ Penulisan 
+\emph on
+caption
+\emph default
+ ini umumnya dilakukan di bagian bawah dari gambar.
+\end_layout
+
+\begin_layout Standard
+Gambar harus jelas.
+ Sebagai mana telah diuraikan, gambar digunakan untuk menjelaskan pembahasan.
+ Jika gambar tidak jelas, maka tujuan tidak tercapai.
+ Ada banyak penulis yang mengambil gambar dari sumber lain, misal melalui
+ proses 
+\emph on
+screenshot
+\emph default
+.
+ Seringkali hasilnya menjadi kabur.
+ Untuk hal seperti ini ada baiknya gambar Anda buat ulang.
+ Perhatikan bahwa sumber tetap harus disebutkan meskipun gambar tersebut
+ Anda yang membuat karena ide dari gambar tersebut bukan dari Anda.
 \end_layout
 
 \begin_layout Section
@@ -516,7 +677,7 @@ Catatan
 
 \begin_layout Standard
 Panduan ini akan diperbaharui secara berkala.
- Ini adalah versi 0.1, dibuat pada bulan April 2020.
+ Ini adalah versi 0.2, dibuat pada bulan April 2020.
 \end_layout
 
 \begin_layout Standard
@@ -550,7 +711,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename br-pasfoto-10.jpg
+	filename images/br-pasfoto-10.jpg
 	scale 43
 
 \end_inset
