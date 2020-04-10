@@ -658,6 +658,58 @@ Secara berkala, nilai akan saya perbaharui sesuai dengan perbaikan dari
  Anda.
 \end_layout
 
+\begin_layout Subsection
+Lain-lain
+\end_layout
+
+\begin_layout Standard
+Pada bagian ini akan dibahas hal lain-lain yang terkait dengan tugas pembuatan
+ makalah.
+ Yang pertama adalah penamaan berkas.
+ Agar memudahkan penilaian dan pengurutan berkas, nama berkas dibuat seperti
+ berikut.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+NIM Proposal Nama
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Contohnya adalah 
+\begin_inset Quotes eld
+\end_inset
+
+7381001 Proposal Budi Rahardjo
+\begin_inset Quotes erd
+\end_inset
+
+ (tanpa tanda kutip).
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+NIM Makalah Nama
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Contoh 
+\begin_inset Quotes eld
+\end_inset
+
+7381001 Makalah Budi Rahardjo
+\begin_inset Quotes erd
+\end_inset
+
+ (tanpa tanda kutip).
+\end_layout
+
 \begin_layout Section
 Penutup
 \end_layout
@@ -677,7 +729,7 @@ Catatan
 
 \begin_layout Standard
 Panduan ini akan diperbaharui secara berkala.
- Ini adalah versi 0.1, dibuat pada bulan April 2020.
+ Ini adalah versi 0.2, dibuat pada bulan April 2020.
 \end_layout
 
 \begin_layout Standard
