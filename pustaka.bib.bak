@@ -2,16 +2,6 @@
 % Encoding: UTF-8
 
 
-@Book{BRsoftwaresecurity,
-  Title                    = {Software Security},
-  Author                   = {Budi R},
-  Publisher                = {PT Insan Infonesia},
-  Year                     = {2016},
-
-  Owner                    = {budi},
-  Timestamp                = {2020.04.10}
-}
-
 @Book{BRsecurity,
   Title                    = {Keamanan Informasi},
   Author                   = {Budi Rahardjo},
@@ -20,5 +10,29 @@
 
   Owner                    = {budi},
   Timestamp                = {2020.04.09}
+}
+
+@Book{BRsoftwaresecurity,
+  Title                    = {Software Security},
+  Author                   = {Budi Rahardjo},
+  Publisher                = {PT Insan Infonesia},
+  Year                     = {2016},
+
+  Owner                    = {budi},
+  Timestamp                = {2020.04.10}
+}
+
+@Article{shannon48,
+  Title                    = {A Mathematical Theory of Communication},
+  Author                   = {C. E. Shannon},
+  Journal                  = {The Bell System Technical Journal},
+  Year                     = {1948},
+
+  Month                    = {July, October},
+  Pages                    = {379-423,623-656},
+  Volume                   = {27},
+
+  Owner                    = {budi},
+  Timestamp                = {2020.04.25}
 }
 
