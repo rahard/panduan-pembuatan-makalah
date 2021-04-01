@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass IEEEtran
 \begin_preamble
 % for subfigures/subtables
@@ -14,16 +16,18 @@
 \language_package none
 \inputencoding default
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -66,6 +70,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -74,7 +79,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 2
 \papersides 1
 \paperpagestyle default
@@ -120,6 +128,7 @@ Budi Rahardjo adalah dosen di Sekolah Teknik Elektro dan Informatika (STEI),
 \begin_inset CommandInset href
 LatexCommand href
 target "rahard@office.itb.ac.id"
+literal "false"
 
 \end_inset
 
@@ -159,7 +168,7 @@ Tulisan ini menjelaskan bagaimana membuat makalah untuk tugas di akhir kelas.
 \end_layout
 
 \begin_layout Keywords
-makalah, final project, thesis, disertasi
+makalah, term paper, final project, thesis, disertasi
 \end_layout
 
 \begin_layout Section
@@ -185,10 +194,11 @@ alah
 
 \end_inset
 
- satu penilaian, bahkan penilaian utama, di perguruan tinggi adalah pembuatan
- makalah.
- Pembuatan makalah merupakan syarat utama bagi kelulusan mahasiswa di tingkat
- pasca sarjana.
+ satu penilaian, bahkan seringkali menjadi penilaian utama, di perguruan
+ tinggi adalah pembuatan makalah.
+ Mahasiswa diuji dengan dua cara, tulisannya dan presentasinya.
+ Pembuatan makalah juga sering menjadi syarat utama bagi kelulusan mahasiswa
+ di tingkat pasca sarjana.
  Masalahnya adalah banyak mahasiswa yang tidak paham bagaimana membuat makalah
  yang baik.
  Tulisan ini ditujukan untuk menjelaskan cara membuat makalah yang baik.
@@ -215,7 +225,9 @@ Makalah tidak mungkin dibuat tanpa menggunakan referensi.
  Sangat jarang (atau bahkan tidak ada) penelitian yang tidak mengacu kepada
  penelitian sebelumnya.
  Penulisan referensi dan penggunaannya dalam tulisan sangat penting.
- Kesalahan dalam penggunaannya dapat membuat Anda dicurigai sebagai plagiat.
+ Kesalahan dalam penggunaannya, misalnya seolah-olah Anda yang menemukan
+ sesuatu padahal Anda mengutip dari makalah lain, dapat membuat Anda dicurigai
+ sebagai plagiat.
 \end_layout
 
 \begin_layout Standard
@@ -224,6 +236,8 @@ Penulisan referensi sangat bergantung kepada media tempat makalah diterbitkan.
  yang harus digunakan.
  Jika makalah tersebut dikirimkan ke sebuah seminar, maka format standar
  dari seminar tersebut yang digunakan.
+ Demikian pula setiap kampus memiliki standar penulisan tugas akhir, skripsi,
+ thesis, dan disertasi.
  Untuk itu salah satu tugas dari Anda adalah mencaritahu format standar
  tersebut.
 \end_layout
@@ -320,6 +334,7 @@ Dalam bukunya, Budi Rahardjo
 \begin_inset CommandInset citation
 LatexCommand cite
 key "BRsecurity"
+literal "true"
 
 \end_inset
 
@@ -357,6 +372,7 @@ Permasalahan keamanan saat ini lebih banyak ke arah perangkat lunak
 \begin_inset CommandInset citation
 LatexCommand cite
 key "BRsoftwaresecurity"
+literal "true"
 
 \end_inset
 
@@ -423,6 +439,7 @@ Ada beberapa jurnal dan institusi pendidikan yang membatasi tahun penerbitan
 \begin_inset CommandInset citation
 LatexCommand cite
 key "shannon48"
+literal "true"
 
 \end_inset
 
@@ -1046,7 +1063,8 @@ Catatan
 
 \begin_layout Standard
 Panduan ini akan diperbaharui secara berkala.
- Ini adalah versi 0.3, dibuat pada bulan April 2020.
+ Ini adalah versi 0.4 yang dibuat pada bulan April 2021.
+ Versi awal dari dokumen ini, versi 0.3, dibuat pada bulan April 2020.
 \end_layout
 
 \begin_layout Standard
@@ -1076,6 +1094,11 @@ width "1in"
 special "none"
 height "1.25in"
 height_special "none"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
@@ -1105,8 +1128,8 @@ Budi Rahardjo
 
 \end_inset
 
- Budi Rahardjo selain menjadi dosen, dia merupakan reviewer dari berbagai
- jurnal dan penerbitan.
+ Budi Rahardjo selain menjadi dosen juga menjadi reviewer dari berbagai
+ jurnal, penerbitan, dan seminar.
  Tugas dari perkuliahannya sebagian besar dilakukan dengan menggunakan makalah.
  Sudah ribuan makalah yang diperiksa olehnya.
 \end_layout
